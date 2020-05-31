@@ -1,0 +1,378 @@
+* {
+    box-sizing: border-box;
+}
+@font-face{
+  font-family: "camaraderie";
+  src: url("RESOURCES/Camaraderie.otf");
+}
+/* Style the header #570c0c*/
+.header {
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  font-family: "Camaraderie";
+  margin-left: 0px;
+  
+}
+/* Style the footer */
+.footer {
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  font-family: "Segoe UI";
+  color: white;
+  margin-left: 0px;
+}
+
+.warning {
+  padding-right: 0px;
+  overflow: hidden;
+  position: relative;
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  margin-left: 0px;
+  text-align: center;
+  padding-top: 0px;
+  font-size: 20px;
+}
+
+.softwarebox {
+	margin-left: 0px;
+}
+
+.column {
+	font-size: 20px;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  padding: 10px;
+  /*height: 300px;*/
+  text-align: center;
+
+}
+
+.column ul{
+	text-align: left;
+	font-size: 20px;
+}
+
+.row {
+  display: -webkit-flex;
+  display: flex;
+  margin-left: 0px;
+  background-color: silver;
+}
+
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+   }
+}
+
+body
+{
+	margin: 0;
+	background-color: black;
+	font-family: "Segoe UI";
+  /*animation: colourshift 10s;
+  animation-iteration-count: infinite;*/
+}
+
+hr
+{
+  margin-left: 0px;
+  color: #000000;
+  border-color: #8F8F8F;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 1px;
+}
+
+/* Style the side navigation */
+.sidenav {
+  height: 100%;
+  width: 0px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+
+/* Side navigation links */
+.sidenav a, .glitch {
+  color: white;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color on hover */
+.sidenav a:hover, .glitch:hover {
+  background-color: #06e0d0;
+  /* #ddd for the light grey*/
+  color: black;
+  transition: 0.25s;
+  border-radius: 50px;
+}
+
+i {
+
+  font-size:30px;
+  color: white;
+  float: right;
+}
+
+/* Dropdown container*/
+.dropdown-container {
+  background-color: #222;
+  text-indent: 8px;
+
+  height: 0;
+  width: 250px;
+  z-index: 1;
+  
+  overflow-y: hidden;
+  transition: 0.5s;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  font-size: 25px;
+  margin-left: 0px;
+  padding-top: 7px;
+  height: 50px;
+  width: 50px;
+}
+
+.navopen {
+ height: 50px;
+  width: 50px;
+  text-align: center;
+  position: fixed;
+  text-shadow: 1px 1px black;
+  top: 0;
+  padding-top: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: white;
+}
+
+.userReg{
+  position: fixed;
+  top: 5;
+  right: 10px;
+  font-size: 20px;
+  margin-right: 0px;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 3px;
+  z-index: 1;
+}
+
+.navopen:hover, .userReg:hover {
+  background-color: #06e0d0;
+  color: black;
+  text-shadow: 0px 0px white;
+  transition: 0.5s;
+  border-radius: 50px;
+}
+
+#UserIcon:hover
+{
+  color: black;
+  transition: 0.25s;
+}
+
+form 
+{
+  font-size: 20px;
+  font-style: "Segoe UI";
+}
+
+.formInput{
+  font-size: 20px;
+  color: white;
+  font-style: "Segoe UI";
+  background-color: #570c0c;
+  border-style: none;
+  position: relative;
+  left: 10;
+}
+
+.content {
+  align-self: center;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgba(255,255,255,0.7);
+  font-family: "Segoe UI";
+  color: black;
+  text-align: center;
+}
+
+.scroll-left {
+  align-self: center;
+  height: 50px;	
+  overflow: hidden;
+  position: relative;
+  background: black;
+  color: white;
+  border: 1px solid white;
+  margin: 10px;
+}
+
+.scroll-left span {
+  display: inline;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin-left: 0px;
+  margin: 0;
+  line-height: 50px;
+  text-align: center;
+  /* Starting position */
+  -moz-transform:translateX(100%);
+  -webkit-transform:translateX(100%);	
+  transform:translateX(100%);
+  /* Apply animation to this element */	
+  -moz-animation: scroll-left 20s linear infinite;
+  -webkit-animation: scroll-left 20s linear infinite;
+  animation: scroll-left 20s linear infinite;
+}
+/* Move it (define the animation) */
+@-moz-keyframes scroll-left {
+ 0%   { -moz-transform: translateX(100%); }
+ 100% { -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes scroll-left {
+ 0%   { -webkit-transform: translateX(100%); }
+ 100% { -webkit-transform: translateX(-100%); }
+}
+@keyframes scroll-left {
+ 0%   { 
+  -moz-transform: translateX(100%); /* Browser bug fix */
+  -webkit-transform: translateX(100%); /* Browser bug fix */
+  transform: translateX(100%); 		
+ }
+ 100% { 
+  -moz-transform: translateX(-100%); /* Browser bug fix */
+  -webkit-transform: translateX(-100%); /* Browser bug fix */
+  transform: translateX(-100%); 
+ }
+}
+
+.button {
+  border-radius: 4px;
+  background-color: #06e0d0;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  font-family: "Segoe UI";
+  overflow: hidden;
+}
+
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.25s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.meme {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s; 
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite; 
+}
+.meme:hover{
+  transform: scale(1.2);
+  width: 100%;
+  height: 100%;
+  transition: 5s;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-75deg); }
+  20% { transform: translate(-3px, 0px) rotate(75deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(75deg); }
+  50% { transform: translate(-1px, 2px) rotate(-75deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-75deg); }
+  80% { transform: translate(-1px, -1px) rotate(75deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-75deg); }
+}
+
+@keyframes colourshift {
+  from {background-color: #000000;}
+  to {background-color: #06e0d0;}
+}
+
+.firepad {
+  width: 700px;
+  height: 450px;
+  background-color: #f62; /* dark orange background */
+}
+
+@keyframes shake2 {
+  0% { transform: translate(100px, 100px) rotate(0deg); }
+  10% { transform: translate(-100px, -200px) rotate(-75deg); }
+  20% { transform: translate(-300px, 0px) rotate(75deg); }
+  30% { transform: translate(300px, 200px) rotate(0deg); }
+  40% { transform: translate(100px, -100px) rotate(75deg); }
+  50% { transform: translate(-100px, 200px) rotate(-100deg); }
+  60% { transform: translate(-300px, 100px) rotate(0deg); }
+  70% { transform: translate(300px, 100px) rotate(-75deg); }
+  80% { transform: translate(-10px, -100px) rotate(75deg); }
+  90% { transform: translate(100px, 200px) rotate(0deg); }
+  100% { transform: translate(100px, -200px) rotate(-75deg); }
+
+}
+
+.glitchy
+{
+  animation: shake2 0.5s; 
+  animation-iteration-count: infinite; 
+}

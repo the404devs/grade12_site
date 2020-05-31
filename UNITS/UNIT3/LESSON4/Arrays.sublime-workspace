@@ -1,0 +1,1088 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ge",
+				"getContentPane"
+			],
+			[
+				"set",
+				"setPreferredSize"
+			],
+			[
+				"m",
+				"main\tmethod (main)"
+			],
+			[
+				"pu",
+				"public\tstatic void"
+			],
+			[
+				"nu",
+				"numbersofN"
+			],
+			[
+				"num",
+				"numbersofLine"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"ex",
+				"exactN"
+			],
+			[
+				"b",
+				"bCount"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"n",
+				"N"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"fi",
+				"firstline"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"file",
+				"file"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"leng",
+				"Length-1"
+			],
+			[
+				"length",
+				"length"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"text-d",
+				"text-decoration-line"
+			],
+			[
+				"backgr",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/School/12/ICS/UNITS/UNIT3/LESSON5/src/thing1.java",
+			"settings":
+			{
+				"buffer_size": 3496,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/School/12/ICS/UNITS/UNIT3/LESSON5/src/dataFile2D.csv",
+			"settings":
+			{
+				"buffer_size": 62411,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/School/12/ICS/UNITS/UNIT3/LESSON5/src/practical.java",
+			"settings":
+			{
+				"buffer_size": 830,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 376.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/School/12/ICS/UNITS/UNIT3/LESSON5",
+		"/E/School/12/ICS/UNITS/UNIT3/LESSON5/bin",
+		"/E/School/12/ICS/UNITS/UNIT3/LESSON5/src",
+		"/E/School/12/ICS/UNITS/UNIT3/LESSON5/src/twoDarrays"
+	],
+	"file_history":
+	[
+		"/E/School/12/ICS/UNITS/UNIT3/LESSON5/src/TwoDArrayDemo.java",
+		"/E/School/12/ICS/UNITS/UNIT3/LESSON4/Arrays/src/excersizes/FrameDemo.java",
+		"/E/run.bat",
+		"/E/School/12/ICS/index.html",
+		"/E/School/12/ICS/snow.js",
+		"/E/School/12/ICS/UNITS/UNIT3/index.html",
+		"/E/Personal/404 site/index.html",
+		"/C/Cache/pc-client.exe-15.3.0.34420/Gadgets/PCBalance.gadget/gadget.xml",
+		"/E/Paint.lnk",
+		"/E/School/12/ICS/index - Copy.mp3",
+		"/E/School/12/ICS/ECOO 2012 Round 1.zip",
+		"/E/Programs/Sublime/Data/Packages/User/Javatar.sublime-settings",
+		"/E/School/12/ICS/UNITS/UNIT3/LESSON4/Arrays/src/excersizes/sum.java",
+		"/E/School/12/ICS/UNITS/UNIT3/LESSON4/Arrays/src/excersizes/TwoArrays.java",
+		"/W/Personal/Images/bup.bmp",
+		"/W/School/12/ICS/UNITS/UNIT3/LESSON4/Arrays/src/excersizes/FrameDemo.java",
+		"/W/Development/Converter/Converter/Converter/Form1.Designer.cs",
+		"/W/School/12/ICS/UNITS/UNIT3/LESSON4/Arrays/src/excersizes/excersizes/TwoArrays.java",
+		"/W/Programs/Sublime/Data/Packages/Javatar/Developers/Proto.javatar-packages",
+		"/W/Programs/Sublime/Data/Packages/Javatar/README.md",
+		"/W/Programs/Sublime/javaDemo.sublime-project",
+		"/W/Programs/Sublime/JavatarDemo/src/javatar/simple/demo/Main.java",
+		"/W/Programs/Sublime/Data/Packages/User/Javatar.sublime-settings",
+		"/E/Programs/USBWebserver/root/DEATH METAL/problem4.php",
+		"/E/Programs/USBWebserver/root/DEATH METAL/problem3.php",
+		"/E/Programs/USBWebserver/root/DEATH METAL/testfile.txt",
+		"/E/School/12/ICS/UNITS/UNIT2/PROBLEMS2/problems.php",
+		"/E/Programs/USBWebserver/root/DEATH METAL/DATA11.txt",
+		"/E/Programs/USBWebserver/root/DEATH METAL/problem1.php",
+		"/E/Programs/USBWebserver/root/DEATH METAL/problem2.php",
+		"/E/Programs/USBWebserver/root/DEATH METAL/testdata2.txt",
+		"/F/Programs/Sublime/JavatarDemo/src/javatar/simple/demo/Main.java",
+		"/W/Programs/Eclipse/EclipsePortable32/Data/workspace/prjArrays/src/prjArrays/Arrayz.java",
+		"/W/Programs/Sublime/Data/Packages/Javatar/Javatar.sublime-settings",
+		"/W/Programs/Sublime/JavatarTest/src/JavatarTest/main.java",
+		"/E/Programs/Sublime/JavatarTest/src/JavatarTest/main.java",
+		"/E/Programs/Sublime/JavatarTest/src/Test.java",
+		"/E/Programs/Sublime/JavatarTest/firstTest.java",
+		"/E/Programs/Eclipse/EclipsePortable32/Data/workspace/prjArrays/src/prjArrays/Arrayz.java",
+		"/E/School/12/ICS/UNITS/UNIT2/index.html",
+		"/C/Users/072613128/AppData/Local/Temp/scp34288/UNITS/UNIT3/index.html",
+		"/E/Programs/EclipsePortable32/Data/workspace/prjDecisionsAndLoops/src/prjDecisionsAndLoops/decisionsAndLoops.java",
+		"/E/Programs/EclipsePortable/App/Eclipse/dropins/theme-1115.epf",
+		"/W/Personal/404 site/software.html",
+		"/W/Personal/404 site/css/sheet.css",
+		"/W/School/12/ICS/ASSIGNMENTS/COMPLETED/Unit2Assignment/css/style.css",
+		"/W/rick.txt",
+		"/W/Personal/404 site/ip.php",
+		"/W/Personal/404 site/development/mario.html",
+		"/W/Personal/404 site/development/index.html",
+		"/W/Personal/404 site/index.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp10467/ASSIGNMENTS/COMPLETED/Unit1Assignment/sessions/494690/sessioninfo.txt",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp08578/userinfo.txt",
+		"/W/Personal/404 site/proxy.html",
+		"/W/Personal/404 site/js/notify.js",
+		"/W/Personal/404 site/index - Copy.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp58519/public_html/index.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp34522/public_html/software.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp49450/public_html/software.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp52825/public_html/sheet.css",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp52127/public_html/nav.js",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp19874/public_html/software.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp22890/public_html/sheet.css",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp18515/public_html/index.html",
+		"/W/School/12/ICS/UNITS/UNIT1/index.html",
+		"/W/School/12/ICS/UNITS/UNIT2/index.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp19602/ASSIGNMENTS/COMPLETED/Unit2Assignment/index.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp30373/ASSIGNMENTS/COMPLETED/Unit2Assignment/environment.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp23002/ASSIGNMENTS/COMPLETED/Unit2Assignment/css/style.css",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp52654/ASSIGNMENTS/COMPLETED/Unit2Assignment/careers.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp07931/ASSIGNMENTS/COMPLETED/Unit2Assignment/future.html",
+		"/C/Users/072613128/AppData/Local/Temp/scp12221/ASSIGNMENTS/COMPLETED/Unit2Assignment/environment.html",
+		"/C/Users/072613128/AppData/Local/Temp/scp10442/ASSIGNMENTS/COMPLETED/Unit2Assignment/css/style.css",
+		"/C/Users/072613128/AppData/Local/Temp/scp12054/ASSIGNMENTS/COMPLETED/Unit2Assignment/index.html",
+		"/C/Users/072613128/AppData/Local/Temp/scp37263/ASSIGNMENTS/COMPLETED/Unit2Assignment/css/style.css",
+		"/C/Users/072613128/AppData/Local/Temp/scp03744/ASSIGNMENTS/COMPLETED/Unit2Assignment/health.html",
+		"/C/Users/072613128/AppData/Local/Temp/scp41092/ASSIGNMENTS/COMPLETED/Unit2Assignment/careers.html",
+		"/C/Users/072613128/AppData/Local/Temp/scp36494/ASSIGNMENTS/COMPLETED/Unit2Assignment/index.html",
+		"/C/Users/072613128/AppData/Local/Temp/scp25595/ASSIGNMENTS/COMPLETED/Unit2Assignment/privacy.html",
+		"/C/Users/072613128/AppData/Local/Temp/scp35262/ASSIGNMENTS/COMPLETED/Unit2Assignment/society.html",
+		"/C/Users/072613128/AppData/Local/Temp/scp42779/ASSIGNMENTS/COMPLETED/Unit2Assignment/portfolioV2.doc",
+		"/C/Users/072613128/AppData/Local/Temp/scp44852/ASSIGNMENTS/COMPLETED/Unit2Assignment/index.html",
+		"/C/Users/072613128/AppData/Local/Temp/scp50299/ASSIGNMENTS/COMPLETED/Unit2Assignment/careers.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp17572/ASSIGNMENTS/COMPLETED/Unit2Assignment/health.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp34570/ASSIGNMENTS/COMPLETED/Unit2Assignment/reflect.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp33845/ASSIGNMENTS/COMPLETED/Unit2Assignment/society.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp32677/ASSIGNMENTS/COMPLETED/Unit2Assignment/environment.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp28470/ASSIGNMENTS/COMPLETED/Unit2Assignment/index.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp20695/ASSIGNMENTS/COMPLETED/Unit2Assignment/careers.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp40789/ASSIGNMENTS/COMPLETED/Unit2Assignment/css/style.css",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp44027/ASSIGNMENTS/COMPLETED/Unit2Assignment/future.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp25811/ASSIGNMENTS/COMPLETED/Unit2Assignment/privacy.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp55786/ASSIGNMENTS/COMPLETED/Unit2Assignment/privacy.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp00079/ASSIGNMENTS/COMPLETED/Unit2Assignment/css/style.css",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp52837/ASSIGNMENTS/COMPLETED/Unit2Assignment/index.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp55258/ASSIGNMENTS/COMPLETED/Unit2Assignment/health.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp04115/ASSIGNMENTS/COMPLETED/Unit2Assignment/future.html",
+		"/W/School/12/ICS/ASSIGNMENTS/COMPLETED/Unit2Assignment/future.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp53479/index.html",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp15013/index.html",
+		"/W/snap0001",
+		"/W/snap0001.bmp",
+		"/W/mario.0x01890.png",
+		"/C/Users/Owen.Glen-PC/AppData/Local/Temp/scp14399/jrb.png",
+		"/E/School/12/ICS/ASSIGNMENTS/INPROGRESS/Unit2Assignment/privacy.html",
+		"/E/Programs/USBWebserver/root/ECOO 2015 Round 1 Questions/problems.php",
+		"/E/School/12/ICS/ASSIGNMENTS/INPROGRESS/Unit2Assignment/health.html",
+		"/E/School/12/ICS/ASSIGNMENTS/INPROGRESS/Unit2Assignment/css/style.css",
+		"/E/School/12/ICS/ASSIGNMENTS/INPROGRESS/Unit2Assignment/index.html",
+		"/E/Personal/404 site/notify.html",
+		"/C/Users/072613128/AppData/Local/Temp/scp21571/public_html/index.html",
+		"/E/School/12/ICS/UNITS/UNIT1/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/School/12/ICS/UNITS/UNIT3/LESSON5/src/thing1.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3454,
+								3454
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3322,
+										3323
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										130,
+										131
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3465,
+										3466
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3454,
+										3455
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.box_height": 27,
+							"color_helper.color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".java",
+								"current_syntax": "Java/Java",
+								"enabled": false,
+								"last_updated": 1522084514.24
+							},
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2430.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/School/12/ICS/UNITS/UNIT3/LESSON5/src/dataFile2D.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 62411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61001,
+								61001
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.box_height": 27,
+							"color_helper.color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".csv",
+								"current_syntax": "Text/Plain text",
+								"enabled": false,
+								"last_updated": 1522084514.24
+							},
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/School/12/ICS/UNITS/UNIT3/LESSON5/src/practical.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								611,
+								611
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										608,
+										609
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										206,
+										207
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										724,
+										725
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										560,
+										561
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.box_height": 27,
+							"color_helper.color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".java",
+								"current_syntax": "Java/Java",
+								"enabled": false,
+								"last_updated": 1522084514.24
+							},
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Arrays.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
