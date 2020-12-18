@@ -53,7 +53,7 @@
 
 			<a href="http://sdsscomputers.com/_courses/ics4u/index.php">SDSS Computers</a>
 			
-			<a href="http://the404.ml/">The404 - My personal site</a>
+			<a href="https://the404.nl/">The404 - My personal site</a>
 			
 			<a href="https://youtu.be/dQw4w9WgXcQ"></a>
 			<a class="glitch" href="javascript:void(0)" onclick="glitchout()">Don't click me!</a>
